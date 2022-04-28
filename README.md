@@ -90,7 +90,7 @@ https://trivializer.com
 <ul>
 	<li>Paul Meehan</li>
 	<li>Brandon Howell</li>
-	<li>Dave Paquette</li>
+	<li>[Dave Paquette](https://github.com/hankatola)</li>
 	<li>Brendan Howell</li>
 </ul>
 
